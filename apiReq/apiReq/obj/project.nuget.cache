@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "9QeMZ4B6t5Y7gZ03o7q82oIGCc5osHMGwTuSoK2Jbmz9kKO1iXEWKqgnbjXrF2oCsXp/dJYJ7GMjq9y67zr6gQ==",
+  "success": true,
+  "projectFilePath": "M:\\CienciaDaComputacao\\Programacao\\C#\\DIOBootcamp\\APIreq\\apiReq\\apiReq\\apiReq.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ITX Gamer\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512",
+    "C:\\Users\\ITX Gamer\\.nuget\\packages\\restsharp\\106.12.0\\restsharp.106.12.0.nupkg.sha512"
+  ],
+  "logs": []
+}

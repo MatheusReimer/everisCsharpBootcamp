@@ -1,0 +1,16 @@
+M:\CienciaDaComputacao\Programacao\C#\DIOBootcamp\APIreq\apiReq\apiReq\bin\Debug\netcoreapp3.1\apiReq.exe
+M:\CienciaDaComputacao\Programacao\C#\DIOBootcamp\APIreq\apiReq\apiReq\bin\Debug\netcoreapp3.1\apiReq.deps.json
+M:\CienciaDaComputacao\Programacao\C#\DIOBootcamp\APIreq\apiReq\apiReq\bin\Debug\netcoreapp3.1\apiReq.runtimeconfig.json
+M:\CienciaDaComputacao\Programacao\C#\DIOBootcamp\APIreq\apiReq\apiReq\bin\Debug\netcoreapp3.1\apiReq.runtimeconfig.dev.json
+M:\CienciaDaComputacao\Programacao\C#\DIOBootcamp\APIreq\apiReq\apiReq\bin\Debug\netcoreapp3.1\apiReq.dll
+M:\CienciaDaComputacao\Programacao\C#\DIOBootcamp\APIreq\apiReq\apiReq\bin\Debug\netcoreapp3.1\apiReq.pdb
+M:\CienciaDaComputacao\Programacao\C#\DIOBootcamp\APIreq\apiReq\apiReq\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+M:\CienciaDaComputacao\Programacao\C#\DIOBootcamp\APIreq\apiReq\apiReq\bin\Debug\netcoreapp3.1\RestSharp.dll
+M:\CienciaDaComputacao\Programacao\C#\DIOBootcamp\APIreq\apiReq\apiReq\obj\Debug\netcoreapp3.1\apiReq.csproj.AssemblyReference.cache
+M:\CienciaDaComputacao\Programacao\C#\DIOBootcamp\APIreq\apiReq\apiReq\obj\Debug\netcoreapp3.1\apiReq.AssemblyInfoInputs.cache
+M:\CienciaDaComputacao\Programacao\C#\DIOBootcamp\APIreq\apiReq\apiReq\obj\Debug\netcoreapp3.1\apiReq.AssemblyInfo.cs
+M:\CienciaDaComputacao\Programacao\C#\DIOBootcamp\APIreq\apiReq\apiReq\obj\Debug\netcoreapp3.1\apiReq.csproj.CoreCompileInputs.cache
+M:\CienciaDaComputacao\Programacao\C#\DIOBootcamp\APIreq\apiReq\apiReq\obj\Debug\netcoreapp3.1\apiReq.csproj.CopyComplete
+M:\CienciaDaComputacao\Programacao\C#\DIOBootcamp\APIreq\apiReq\apiReq\obj\Debug\netcoreapp3.1\apiReq.dll
+M:\CienciaDaComputacao\Programacao\C#\DIOBootcamp\APIreq\apiReq\apiReq\obj\Debug\netcoreapp3.1\apiReq.pdb
+M:\CienciaDaComputacao\Programacao\C#\DIOBootcamp\APIreq\apiReq\apiReq\obj\Debug\netcoreapp3.1\apiReq.genruntimeconfig.cache

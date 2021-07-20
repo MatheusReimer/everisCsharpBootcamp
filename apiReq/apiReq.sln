@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31424.327
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "apiReq", "apiReq\apiReq.csproj", "{B21998AF-8BAA-47B3-B204-14F0A82233BD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B21998AF-8BAA-47B3-B204-14F0A82233BD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B21998AF-8BAA-47B3-B204-14F0A82233BD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B21998AF-8BAA-47B3-B204-14F0A82233BD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B21998AF-8BAA-47B3-B204-14F0A82233BD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {62AE8886-F588-4D0D-9446-B77CFB621917}
+	EndGlobalSection
+EndGlobal
